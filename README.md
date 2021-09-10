@@ -1,2 +1,6 @@
-# Ola-Mundo
- Primeiro programa do curso git e github
+# Olá, Mundo!
+ Primeiro programa do curso Git e Github do site Curso em Video
+
+ Programa usual para todos os que estão iniciando uma linguagem na programação.
+
+ Elaborado durante a aula 5 do curso.
