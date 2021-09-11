@@ -1,8 +1,8 @@
 # Olá, Mundo!
- Primeiro programa do curso Git e Github do site Curso em Video
+ Primeiro programa do curso Git e Github do site Curso em Video 😃
 
- Programa usual para todos os que estão iniciando uma linguagem na programação.
+Um clássico para os iniciantes na linguagem. 😎
 
- Elaborado durante a aula 5 do curso.
+ Elaborado durante a aula 5 do curso de **GIT HUB**
  
  Segunda modificação, esta realizada diretamente na web.
